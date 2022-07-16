@@ -1,0 +1,20 @@
+ ( ph ) (c4 )  arrived
+ ( computer ) (c3 )  arrived
+Connection 2: computer  Logged out
+connection 2: computer Occupied
+connection 2: computer LogIn
+connection 2: computer performs online activity
+ ( mobile )  ( c1 )  arrived and waiting
+Connection 1: ph  Logged out
+connection 1: ph Occupied
+connection 1: ph LogIn
+connection 1: ph performs online activity
+ ( pc )  ( c2 )  arrived and waiting
+Connection 1: pc  Logged out
+Connection 2: mobile  Logged out
+connection 2: mobile Occupied
+connection 2: mobile LogIn
+connection 2: mobile performs online activity
+connection 1: pc Occupied
+connection 1: pc LogIn
+connection 1: pc performs online activity

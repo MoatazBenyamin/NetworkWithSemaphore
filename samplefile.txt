@@ -1,0 +1,20 @@
+ ( b2 ) (c2 )  arrived
+ ( v4 ) (c4 )  arrived
+Connection 1: b2  Logged out
+ ( v3 )  ( c3 )  arrived and waiting
+connection 1: b2 Occupied
+connection 1: b2 LogIn
+connection 1: b2 performs online activity
+Connection 2: v4  Logged out
+ ( b1 )  ( c1 )  arrived and waiting
+connection 2: v4 Occupied
+connection 2: v4 LogIn
+connection 2: v4 performs online activity
+Connection 1: v3  Logged out
+connection 1: v3 Occupied
+connection 1: v3 LogIn
+connection 1: v3 performs online activity
+Connection 2: b1  Logged out
+connection 2: b1 Occupied
+connection 2: b1 LogIn
+connection 2: b1 performs online activity
